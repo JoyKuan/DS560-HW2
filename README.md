@@ -37,5 +37,5 @@ $ python3 plot_equation.py
 3. equation_graph.png
 
 # License
-
+[![DOI](https://zenodo.org/badge/297493565.svg)](https://zenodo.org/badge/latestdoi/297493565)
 
