@@ -36,6 +36,10 @@ $ python3 plot_equation.py
 2. y_dataset.csv
 3. equation_graph.png
 
+# Jupyter Notebook
+HW2.ipynb
+
 # License
 [![DOI](https://zenodo.org/badge/297493565.svg)](https://zenodo.org/badge/latestdoi/297493565)
+
 
