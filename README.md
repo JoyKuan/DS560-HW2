@@ -20,7 +20,6 @@ You will see two datasets(.csv) which are saved in your disk and the graph of th
 ### Visualization of the linear function:
 ![image](https://user-images.githubusercontent.com/54604816/94120168-ad5b7d80-fe04-11ea-977c-5722a2e452b6.png)
 
-
 # Technologies
 * Python 3.7
 * Matplotlib 3.3.2
