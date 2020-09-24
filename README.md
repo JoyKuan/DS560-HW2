@@ -18,7 +18,8 @@ Follow by following tasks:
 3. Visualize the results
 You will see two datasets(.csv) which are saved in your disk and the graph of the equation y=3x+6.
 
-<iframe src="https://widgets.figshare.com/articles/12979160/embed?show_title=false" width="568" height="351"  frameborder="0"></iframe>
+### Visualization of the linear function:
+![picture](img/equation_graph.png)
 
 # Technologies
 * Python 3.7
