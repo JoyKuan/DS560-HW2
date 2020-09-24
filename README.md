@@ -6,7 +6,7 @@ Citing Visualization of the linear function:
 If you want to cite the latest version of the software, you can do by using https://doi.org/10.5281/zenodo.4042175
 
 # Downloading the scripts
-To download three Python scripts, you need to make sure you have Python3 on your Mac. If you have old Python version, please update it.
+To download three Python scripts, you need to make sure you have Python3 on your Mac. If you have old Python version, please update it. 
 The latest release for donloading: https://github.com/JoyKuan/DS560-HW2/releases/latest
 
 # Description
