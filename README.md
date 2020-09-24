@@ -19,7 +19,8 @@ Follow by following tasks:
 You will see two datasets(.csv) which are saved in your disk and the graph of the equation y=3x+6.
 
 ### Visualization of the linear function:
-![picture](img/equation_graph.png)
+![image](https://user-images.githubusercontent.com/54604816/94120168-ad5b7d80-fe04-11ea-977c-5722a2e452b6.png)
+
 
 # Technologies
 * Python 3.7
