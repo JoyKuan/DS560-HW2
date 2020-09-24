@@ -32,13 +32,14 @@ Before to run plot_equation.py, you need to install Matplotlib:
 conda install matplotlib
 ```
 + Install Matplotlib with pip
-##### Use the package manager pip to install matplotlib
+  Use the package manager pip to install matplotlib
 ```bash
 pip install matplotlib
 ```
 
 # How to run Python scripts
-Open a command-line and type in the word python3 if you hava python3 version, and then run them in order, followed by the path to these three scripts:
+System: Mac
+Open a command-line and take note of the path of the Python script in Finder. Use the cd command to navigate to the folder containing the Python file. If you copied the pathname, paste the pathname after the cd command. If you hava python3 version, and then run them in order. Type the following command to execute three scripts:
 ```bash
 $ python3 generate_input_x.py
 $ python3 generate_output_y.py
@@ -50,11 +51,11 @@ If there is no problem after you run all three scripts in order, you will see th
 1. x_dataset.csv
 2. y_dataset.csv
 3. equation_graph.png
-If this does not work right, you will need to check your Python installation.
+If there exists some problems, you will need to check your Python installation.
 
 # Jupyter Notebook
+[HW2.ipynb](https://github.com/JoyKuan/DS560-HW2/blob/master/HW2.ipynb)
 This Python Notebook that calls the three scripts, generate_input_x.py, generate_output_y.py and plot_equation.py, in order. You can follow the instructions mentioned in Notebook, and then you will see the graph of a linear equation y=3x+6.
-HW2.ipynb
 
 # License
 [![DOI](https://zenodo.org/badge/297493565.svg)](https://zenodo.org/badge/latestdoi/297493565)
