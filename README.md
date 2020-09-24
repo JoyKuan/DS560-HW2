@@ -3,7 +3,7 @@
 #### Author: Kuan-Hui Lin
 
 **Citing Visualization of the linear function:**
-If you want to cite the latest version of the software, you can do by using https://doi.org/10.5281/zenodo.4042175
+If you want to cite the latest version of the software, you can do by using https://doi.org/10.5281/zenodo.4048948
 
 # Downloading the scripts
 To download three Python scripts, you need to make sure you have Python3 on your Mac. If you have old Python version, please update it. 
@@ -61,6 +61,6 @@ See notebook [visualization_equation.ipynb](https://github.com/JoyKuan/DS560-HW2
 This Python Notebook that calls the three scripts, generate_input_x.py, generate_output_y.py and plot_equation.py, in order. You can follow the instructions mentioned in Notebook, and then you will see the graph of a linear equation y=3x+6.
 
 # License
-[![DOI](https://zenodo.org/badge/297493565.svg)](https://zenodo.org/badge/latestdoi/297493565)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048948.svg)](https://doi.org/10.5281/zenodo.4048948)
 
 
