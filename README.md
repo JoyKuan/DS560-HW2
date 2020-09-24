@@ -56,7 +56,7 @@ If there exists some problems, you will need to check your Python installation.
 3. equation_graph.png
 
 # Jupyter Notebook
-See notebook [HW2.ipynb](https://github.com/JoyKuan/DS560-HW2/blob/master/HW2.ipynb).
+See notebook [visualization_equation.ipynb](https://github.com/JoyKuan/DS560-HW2/blob/master/visualization_equation.ipynb).
 
 This Python Notebook that calls the three scripts, generate_input_x.py, generate_output_y.py and plot_equation.py, in order. You can follow the instructions mentioned in Notebook, and then you will see the graph of a linear equation y=3x+6.
 
