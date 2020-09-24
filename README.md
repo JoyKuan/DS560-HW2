@@ -1,7 +1,7 @@
 # DSCI 560 - Visualization of the linear function
 
 #### Author: Kuan-Hui Lin
-Citing Visualization of the linear function:
+**Citing Visualization of the linear function:**
 If you want to cite the latest version of the software, you can do by using https://doi.org/10.5281/zenodo.4042175
 
 # Downloading the scripts
