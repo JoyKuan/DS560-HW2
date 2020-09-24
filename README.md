@@ -49,13 +49,14 @@ $ python3 plot_equation.py
 # Output Files
 If there is no problem after you run all three scripts in order, you will see three output files in your disk.
 If there exists some problems, you will need to check your Python installation.
+
 **Output Files:**
 1. x_dataset.csv
 2. y_dataset.csv
 3. equation_graph.png
 
 # Jupyter Notebook
-See notebook [HW2.ipynb](https://github.com/JoyKuan/DS560-HW2/blob/master/HW2.ipynb)
+See notebook [HW2.ipynb](https://github.com/JoyKuan/DS560-HW2/blob/master/HW2.ipynb).
 
 This Python Notebook that calls the three scripts, generate_input_x.py, generate_output_y.py and plot_equation.py, in order. You can follow the instructions mentioned in Notebook, and then you will see the graph of a linear equation y=3x+6.
 
