@@ -7,7 +7,7 @@ If you want to cite the latest version of the software, you can do by using http
 
 # Downloading the scripts
 To download three Python scripts, you need to make sure you have Python3 on your Mac. If you have old Python version, please update it. 
-The latest release for donloading: https://github.com/JoyKuan/DS560-HW2/releases/latest
+The latest release for downloading: https://github.com/JoyKuan/DS560-HW2/releases/latest
 
 # Description
 Visualization of the linear function is help you create a scatter chart including all the data points lie on the line given by equation y=3x+6 with all values of x from x dataset and all values of y from y dataset and save the graph of the result into the disk. 
