@@ -15,6 +15,7 @@ Follow by following tasks:
 1. Generate 1000 random numbers over the range 0-100
 2. Generate new numbers from the original 1000 using the equation y=3x+6
 3. Visualize the results
+
 You will see two datasets(.csv) which are saved in your disk and the graph of the equation y=3x+6.
 
 ### Visualization of the linear function:
