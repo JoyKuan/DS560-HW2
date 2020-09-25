@@ -42,7 +42,7 @@ pip install matplotlib
 # How to run Python scripts
 System: macOS
 
-Open a command-line and take note of the path of the Python script in Finder. Use the cd command to navigate to the folder containing the Python file. If you copied the pathname, paste the pathname after the cd command. If you hava python3 version, and then run them in order. Type the following command to execute three scripts:
+Open a command-line and take note of the path of the Python script in Finder. Use the cd command to navigate to the folder containing the Python file. If you copide the pathname before, paste the pathname after the cd command. If you hava python3 version, and then run them in order. Type the following command to execute three scripts:
 ```bash
 $ python3 generate_input_x.py
 $ python3 generate_output_y.py
