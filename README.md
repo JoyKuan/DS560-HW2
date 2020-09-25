@@ -33,6 +33,7 @@ Before to run plot_equation.py, you need to install Matplotlib:
 conda install matplotlib
 ```
 + Install Matplotlib with pip
+  
   Use the package manager pip to install matplotlib
 ```bash
 pip install matplotlib
