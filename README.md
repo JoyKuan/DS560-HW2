@@ -1,4 +1,5 @@
 # DSCI 560 - Visualization of the linear function
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048948.svg)](https://doi.org/10.5281/zenodo.4048948)
 
 #### Author: Kuan-Hui Lin
 
@@ -64,6 +65,6 @@ See notebook [visualization_equation.ipynb](https://github.com/JoyKuan/DS560-HW2
 This Python Notebook that calls the three scripts, generate_input_x.py, generate_output_y.py and plot_equation.py, in order. You can follow the instructions mentioned in Notebook, and then you will see the graph of a linear equation y=3x+6.
 
 # License
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4048948.svg)](https://doi.org/10.5281/zenodo.4048948)
+Apache License 2.0
 
 
