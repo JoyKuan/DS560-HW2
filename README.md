@@ -81,6 +81,7 @@ git clone https://github.com/JoyKuan/DS560-HW2.git
 ```bash
 pip install virtualenv
 ```
+
 2. Create a virtual environment
 * Generally, the commands is
 ```bash
