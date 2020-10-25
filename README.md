@@ -67,8 +67,9 @@ This Python Notebook that calls the three scripts, generate_input_x.py, generate
 # License
 Apache License 2.0
 
-# Execute GitHub project(DS560-HW2) on a virtual environment step by step
+# Execute GitHub project(DS560-HW2) on a virtual environment
 System: MacOS
+The instructions and details will be clearly described below.
 
 ## Step 1. Clone DS560-HW2 into your local repository 
 Clones the repository, DS560-HW2, into a newly created directory with git clone <url>. For example, if you want to clone the Git linkable library called DS560-HW2, you can do so like this:
