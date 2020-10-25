@@ -82,11 +82,11 @@ git clone https://github.com/JoyKuan/DS560-HW2.git
 pip install virtualenv
 ```
 2. Create a virtual environment
-Generally, the commands is
+* Generally, the commands is
 ```bash
 python3 -m venv env 
 ```
-In this project, the command is 
+* In this project, the command is 
 ```bash
 python3 -m venv dsci560H4
 ```
@@ -105,15 +105,24 @@ If you did not install the dependencies, you will see the empty content in requi
 pip freeze > requirements.txt
 ```
 
+The screenshot shows the change of requirements.txt. If you do not install the dependencies, you will see the empty content in requirements.txt file. Once you execute the random number script and it shows error message that notify you to install the module 'pandas'. After you installed the package, pandas, then executing the pip command metioned above, and you will see the necessary packages listed in requirements.txt. In this screenshot, you will find all these required packages are generated after manually installing pandas. You can see a mapping of package names and version constraints and also include the pandas dependency and the version of pandas(1.1.3) to use. 
+numpy==1.19.2
+pandas==1.1.3
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+
+![Xnip2020-10-25_01-04-35](https://user-images.githubusercontent.com/54604816/97101866-19c4d900-165e-11eb-9d41-48aedf26a161.jpg)
+
+Also, after installing the package, matplotlib, for executing the visualization script, you can view 
+![Xnip2020-10-25_01-40-44](https://user-images.githubusercontent.com/54604816/97102483-2861bf00-1663-11eb-87f4-b233c09827d6.jpg)
 
 
 
+This screenshot of the terminal with the activated environment after running the script for the number generator.
+Because there is no print in this file, it will not show any output result but will store the output data into the disk.
+![Screen Shot 2020-10-25 at 00 49 08](https://user-images.githubusercontent.com/54604816/97101586-057fdc80-165c-11eb-82b1-4cfefa6bedff.png)
 
 
-  
-  
-  
-  
-  
-Step 2. Activate the environment and install package for executing the random
+
 
