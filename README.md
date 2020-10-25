@@ -141,6 +141,7 @@ Upload your extracted dependencies to GitHub via Github Desktop. Push changes to
 
 # Binder Repository
 Launch the noteook with latest visualization_equation : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoyKuan/DS560-HW2/master?filepath=visualization_equation.ipynb)
+
 visualization_equation.ipynb is a short Jupyter Notebook that generates a plot of the equation.
 
 
