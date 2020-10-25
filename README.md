@@ -71,13 +71,13 @@ Apache License 2.0
 System: MacOS
 The instructions and details will be clearly described below.
 
-## Step 1. Clone DS560-HW2 into your local repository 
+## Step 1. Clone DS560-HW2 into your local repository  (Question 1)
 Clones the repository, DS560-HW2, into a newly created directory with git clone <url>. For example, if you want to clone the Git linkable library called DS560-HW2, you can do so like this:
 ```bash
 git clone https://github.com/JoyKuan/DS560-HW2.git
 ```
 
-## Step 2. Create a blank environment on the local repository and name it dsci560H4 
+## Step 2. Create a blank environment on the local repository and name it dsci560H4  (Question 1)
 1. Install virtualenv on the local repository on MacOS.
 ```bash
 pip install virtualenv
@@ -94,7 +94,7 @@ python3 -m venv env
 python3 -m venv dsci560H4
 ```
   
-3. Activate your virtual environment and install the dependencies for executing the random number generator script
+3. Activate your virtual environment and install the dependencies for executing the random number generator script **(Question 2)**
 Before you start installing or using packages in the virtual environment you’ll need to activate it. 
 ```bash
 source env/bin/activate
@@ -108,7 +108,7 @@ If you did not install the dependencies, you will see the empty content in requi
 pip freeze > requirements.txt
 ```
 
-The screenshot shows the change of requirements.txt. If you do not install the dependencies, you will see the empty content in requirements.txt file. Once you execute the random number script and it shows error message that notify you to install the module 'pandas'. After you installed the package, pandas, then executing the pip command metioned above, and you will see the necessary packages listed in requirements.txt. In this screenshot, you will find all these required packages are generated after manually installing pandas. You can see a mapping of package names and version constraints and also include the pandas dependency and the version of pandas(1.1.3) to use. 
+The screenshot shows the change of requirements.txt. If you do not install the dependencies, you will see the empty content in requirements.txt file. Once you execute the random number script and it shows error message that notify you to install the module 'pandas'. After you installed the package, pandas, then executing the pip command metioned above, and you will see the necessary packages listed in requirements.txt. In this screenshot, you will find all these required packages are generated after manually installing pandas. You can see a mapping of package names and version constraints and also include the pandas dependency and the version of pandas(1.1.3) to use. **( Question 2 and Question 4(a) )**
 * numpy==1.19.2
 * pandas==1.1.3
 * python-dateutil==2.8.1
@@ -125,7 +125,7 @@ This screenshot of the terminal with the activated environment after running the
 Because there is no print in this file, it will not show any output result but will store the output data into the disk.
 ![Screen Shot 2020-10-25 at 00 49 08](https://user-images.githubusercontent.com/54604816/97101586-057fdc80-165c-11eb-82b1-4cfefa6bedff.png)
 
-## Step 3. 
+## Step 3. (Question 4(b))
 Create a .gitignore file in the repository's root directory via the command. And set .gitignore to tell Git do not track content of the folder, dsci560H4.
 ```bash
 touch .gitignore
@@ -135,11 +135,11 @@ and set .gitignore configurations via vim and save it.
 vim .gitignore
 ```
 
-## Step 4.
+## Step 4. (Question 4(c))
 Upload your extracted dependencies to GitHub via Github Desktop. Push changes to GitHub and send the committed changes in your local repository to the remote repository on GitHub.
 
 
-# Binder Repository
+# Binder Repository (Question 6(b))
 Launch the noteook with latest visualization_equation : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoyKuan/DS560-HW2/master?filepath=visualization_equation.ipynb)
 
 visualization_equation.ipynb is a short Jupyter Notebook that generates a plot of the equation.
