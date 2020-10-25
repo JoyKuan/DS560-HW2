@@ -68,12 +68,52 @@ This Python Notebook that calls the three scripts, generate_input_x.py, generate
 Apache License 2.0
 
 # Execute GitHub project(DS560-HW2) on a virtual environment step by step
-System: macOS
+System: MacOS
 
-Step 1. Create a blank environment and name it dsci560H4
-
+## Step 1. Clone DS560-HW2 into your local repository 
+Clones the repository, DS560-HW2, into a newly created directory with git clone <url>. For example, if you want to clone the Git linkable library called DS560-HW2, you can do so like this:
 ```bash
-python3 -m pip install --user virtualenv
+git clone https://github.com/JoyKuan/DS560-HW2.git
 ```
+
+## Step 2. Create a blank environment on the local repository and name it dsci560H4 
+1. Install virtualenv on the local repository on MacOS.
+```bash
+pip install virtualenv
+```
+2. Create a virtual environment
+Generally, the commands is
+```bash
+python3 -m venv env 
+```
+In this project, the command is 
+```bash
+python3 -m venv dsci560H4
+```
+The second argument is the location to create the virtual environment. You can use "env" or change "env" into your name of the environment(e.g. dsci560H4). 
+  
+3. Activate your virtual environment and install the dependencies for executing the random number generator script
+Before you start installing or using packages in the virtual environment you’ll need to activate it. 
+```bash
+source env/bin/activate
+```
+And then install the package, pandas, for executing the random number script (generate_input_x.py).
+In order to save the dependencies, you need to execute the command which records an environment's current package list into requirements.txt.
+In the requirements.txt file that contains a list of commands for pip that installs the required versions of dependent packages.
+If you did not install the dependencies, you will see the empty content in requirements.txt file.
+```bash
+pip freeze > requirements.txt
+```
+
+
+
+
+
+
+  
+  
+  
+  
+  
 Step 2. Activate the environment and install package for executing the random
 
