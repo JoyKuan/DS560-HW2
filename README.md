@@ -84,6 +84,7 @@ pip install virtualenv
 ```
 
 2. Create a virtual environment
+The second argument is the location to create the virtual environment. You can use "env" or change "env" into your name of the environment(e.g. dsci560H4). 
 * Generally, the commands is
 ```bash
 python3 -m venv env 
@@ -92,13 +93,13 @@ python3 -m venv env
 ```bash
 python3 -m venv dsci560H4
 ```
-The second argument is the location to create the virtual environment. You can use "env" or change "env" into your name of the environment(e.g. dsci560H4). 
   
 3. Activate your virtual environment and install the dependencies for executing the random number generator script
 Before you start installing or using packages in the virtual environment you’ll need to activate it. 
 ```bash
 source env/bin/activate
 ```
+
 And then install the package, pandas, for executing the random number script (generate_input_x.py).
 In order to save the dependencies, you need to execute the command which records an environment's current package list into requirements.txt.
 In the requirements.txt file that contains a list of commands for pip that installs the required versions of dependent packages.
