@@ -67,4 +67,13 @@ This Python Notebook that calls the three scripts, generate_input_x.py, generate
 # License
 Apache License 2.0
 
+# Execute GitHub project(DS560-HW2) on a virtual environment step by step
+System: macOS
+
+Step 1. Create a blank environment and name it dsci560H4
+
+```bash
+python3 -m pip install --user virtualenv
+```
+Step 2. Activate the environment and install package for executing the random
 
