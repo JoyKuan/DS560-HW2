@@ -109,11 +109,11 @@ pip freeze > requirements.txt
 ```
 
 The screenshot shows the change of requirements.txt. If you do not install the dependencies, you will see the empty content in requirements.txt file. Once you execute the random number script and it shows error message that notify you to install the module 'pandas'. After you installed the package, pandas, then executing the pip command metioned above, and you will see the necessary packages listed in requirements.txt. In this screenshot, you will find all these required packages are generated after manually installing pandas. You can see a mapping of package names and version constraints and also include the pandas dependency and the version of pandas(1.1.3) to use. 
-numpy==1.19.2
-pandas==1.1.3
-python-dateutil==2.8.1
-pytz==2020.1
-six==1.15.0
+* numpy==1.19.2
+* pandas==1.1.3
+* python-dateutil==2.8.1
+* pytz==2020.1
+* six==1.15.0
 
 ![Xnip2020-10-25_01-04-35](https://user-images.githubusercontent.com/54604816/97101866-19c4d900-165e-11eb-9d41-48aedf26a161.jpg)
 
@@ -137,5 +137,10 @@ vim .gitignore
 
 ## Step 4.
 Upload your extracted dependencies to GitHub via Github Desktop. Push changes to GitHub and send the committed changes in your local repository to the remote repository on GitHub.
+
+
+# Binder Repository
+Launch the noteook with latest visualization_equation : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoyKuan/DS560-HW2/master?filepath=visualization_equation.ipynb)
+visualization_equation.ipynb is a short Jupyter Notebook that generates a plot of the equation.
 
 
