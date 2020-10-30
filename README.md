@@ -69,6 +69,7 @@ Apache License 2.0
 
 # Execute GitHub project(DS560-HW2) on a virtual environment
 System: MacOS
+
 The instructions and details will be clearly described below.
 
 ## Step 1. Clone DS560-HW2 into your local repository  (Question 1)
