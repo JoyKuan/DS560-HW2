@@ -122,7 +122,7 @@ Also, after installing the package, matplotlib, for executing the visualization 
 ![Xnip2020-10-25_01-40-44](https://user-images.githubusercontent.com/54604816/97102483-2861bf00-1663-11eb-87f4-b233c09827d6.jpg)
 
 
-This screenshot of the terminal with the activated environment after running the script for the number generator.
+This screenshot of the terminal with the activated environment after running the script for the number generator. **( Question 3 )**
 Because there is no print in this file, it will not show any output result but will store the output data into the disk.
 ![Screen Shot 2020-10-25 at 00 49 08](https://user-images.githubusercontent.com/54604816/97101586-057fdc80-165c-11eb-82b1-4cfefa6bedff.png)
 
